@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px_max_2.5_lines; AIDA_pass=true; bento_density=grid-auto-flow:dense; competitors_label_sweep=ok; button_contrast=ink_on_paper_ok",
+  "generated_at": "2026-06-29T23:05:18.579686+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who want to turn calls, DMs, and voice notes into published content and repeatable operations. Uses current reporting on computer\u2011use AI agents (notably Gemini 3.5 Flash) as evidence of the market shift, then positions Super as the sharper alternative for durable, repeated computer\u2011use workflows via a reusable computer-use cache."
+}
